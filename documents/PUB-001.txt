@@ -1,0 +1,13 @@
+DOCUMENT_ID: PUB-001
+CLASSIFICATION: PUBLIC
+ALLOWED_ROLES: guest, employee, admin
+
+CyberNova Technologies Employee Handbook
+
+Employees receive 30 days of annual leave per year.
+
+The company helpdesk operates Monday to Friday from
+08:00 until 17:00.
+
+Employees may contact the helpdesk for password resets,
+software issues and general technical support.

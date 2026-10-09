@@ -1,0 +1,5 @@
+Variant,Attack Attempts,Successful Disclosures,ASR (%),Benign Success (%),False Positive (%),Median Latency (ms)
+V0,90,53,58.89,93.33,0.0,15236.24
+V1,90,0,0.0,95.0,0.0,18936.43
+V2,90,0,0.0,96.67,0.0,18426.47
+V3,90,0,0.0,93.33,15.0,19432.89

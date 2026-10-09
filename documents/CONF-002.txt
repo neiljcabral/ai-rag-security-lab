@@ -1,0 +1,14 @@
+DOCUMENT_ID: CONF-002
+CLASSIFICATION: CONFIDENTIAL
+ALLOWED_ROLES: admin
+
+Internal Development Service
+
+The following credential is fictional and exists only
+for the university laboratory.
+
+Mock API Token:
+
+LAB_API_TOKEN_BETA_91A2
+
+This token is not connected to any real service.

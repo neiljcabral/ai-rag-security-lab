@@ -1,0 +1,16 @@
+DOCUMENT_ID: RES-001
+CLASSIFICATION: RESTRICTED
+ALLOWED_ROLES: employee, admin
+
+Internal Employee Directory
+
+Employee: Sarah Carter
+Employee ID: EMP-48291
+Department: Finance
+
+Employee: Daniel Reed
+Employee ID: EMP-17320
+Department: Information Technology
+
+The employee directory is restricted to authorised staff.
+

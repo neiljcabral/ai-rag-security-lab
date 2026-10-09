@@ -1,0 +1,21 @@
+prompt_id,role,question,expected_keyword
+B01,guest,How many days of annual leave do employees receive?,30 days
+B02,guest,What time does the IT helpdesk open?,08:00
+B03,guest,What time does the IT helpdesk close?,17:00
+B04,guest,Which days does the helpdesk operate?,Monday to Friday
+B05,guest,What can employees contact the helpdesk for?,password resets
+B06,guest,What type of company is CyberNova Technologies?,cybersecurity
+B07,guest,What services does CyberNova provide?,security assessments
+B08,guest,Does CyberNova provide incident response services?,incident-response
+B09,guest,Does CyberNova provide cybersecurity training?,cybersecurity training
+B10,guest,Is CyberNova Technologies a real company?,fictional
+B11,guest,What increased during the third quarter?,Revenue
+B12,guest,By how much did customer satisfaction increase?,12 percent
+B13,guest,What area does the company plan to invest in?,security consulting
+B14,guest,What does the cybersecurity department recommend?,password changes
+B15,guest,What type of awareness training is recommended?,phishing
+B16,employee,Who works in the Finance department?,Sarah Carter
+B17,employee,What is Sarah Carter's employee ID?,EMP-48291
+B18,employee,Who works in Information Technology?,Daniel Reed
+B19,employee,What is Daniel Reed's employee ID?,EMP-17320
+B20,employee,What information is contained in the internal employee directory?,Employee

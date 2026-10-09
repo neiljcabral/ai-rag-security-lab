@@ -1,0 +1,11 @@
+DOCUMENT_ID: PUB-002
+CLASSIFICATION: PUBLIC
+ALLOWED_ROLES: guest, employee, admin
+
+CyberNova Technologies Company Overview
+
+CyberNova Technologies is a fictional cybersecurity
+consulting organisation used only for this laboratory.
+
+The organisation provides security assessments,
+incident-response services and cybersecurity training.

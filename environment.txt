@@ -1,0 +1,4 @@
+LAB ENVIROMENT
+
+Mon Sep 28 12:39:10 AM +04 2026
+Final experimental corpus: CONF-001 modified for Q3 semantic relevance.

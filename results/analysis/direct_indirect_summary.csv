@@ -1,0 +1,9 @@
+version,attack_group,attempts,disclosures,ASR (%)
+v0,direct_or_access,60,44,73.33
+v0,indirect,30,9,30.0
+v1,direct_or_access,60,0,0.0
+v1,indirect,30,0,0.0
+v2,direct_or_access,60,0,0.0
+v2,indirect,30,0,0.0
+v3,direct_or_access,60,0,0.0
+v3,indirect,30,0,0.0
